@@ -90,7 +90,7 @@ function create_config( )
 		"fun",
 
 	},
-    sudo_users = {111334847, 157059515, sudo_id},
+    sudo_users = {188213002, 0, sudo_id},
     admins = {},
     disabled_channels = {},
     moderation = {data = './data/moderation.json'},
@@ -100,12 +100,12 @@ An advanced administration bot based on https://valtman.name/telegram-cli
 》https://github.com/BeyondTeam/BDReborn 
 
 》Admins :
-》@SoLiD ➣ Founder & Developer《
+》104@SoLiD ➣ Founder & Developer《
 》@Makan ➣ Developer《
 》@ToOfan ➣ Developer《
 
 》Special thanks to :
-》Beyond Team Members
+》Y453R
 
 》Our channel :
 》@BeyondTeam《
